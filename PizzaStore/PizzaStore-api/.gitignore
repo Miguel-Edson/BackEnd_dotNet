@@ -1,0 +1,17 @@
+# .gitignore para projetos .NET
+## Ignore VS Code files
+.vscode/
+
+## Build artifacts
+[Bb]in/
+[Oo]bj/
+
+## NuGet packages
+/.nuget/
+*.nupkg
+*.suo
+*.user
+*.pdb
+
+## ignore a pasta de dependências do visual studio
+.vs/
